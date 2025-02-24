@@ -26,7 +26,6 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 Waterfall is ideal for projects with well defined requirements due to its rigidity such as government systems and banking software while Agile is better suited for fast changing eenvironments like mobile apps,AI systems and startups where adaptability is essential.
 
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software developers-Responsible for designing,coding and maintaining applications,ensuring efficiency,scalability and functionality.They collaborate with other team members,debug issues and implement new featuresusing programming languages like python,java or javascript.
 Quality assurance engineers-Mainly focus on testing software to identify and fix bugs ensuring the product meets perfomance,security and usability standards.They develop automated and manual test cases and work closely with developers to improve software quality.
@@ -36,13 +35,10 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 Intergrated Development Environments are software suites that provide comprehensive tools for writing, debugging, and testing code.Examples include Visual Studio and Eclipse.
 Version control systems are software tools for tracking changes to source code and coordinating work among team members.Examples are Git and Subversion
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
-
-
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
  Unit Testing: Testing individual components or modules of software.
